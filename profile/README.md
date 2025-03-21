@@ -1,6 +1,6 @@
 # Computational Cancer Immunogenomics Group
 
-Led by Dr Stefano Mangiola at the South Australian Immunogenomics Cancer Institute (SAiGENCI), our research group applies state-of-the-art computational methods and artificial intelligence to unravel the immune system’s role in cancer progression and treatment resistance. Our work has been published in prestigious journals such as *PNAS*, *Genome Biology*, and *Nature Methods*.
+Led by Dr Stefano Mangiola at the South Australian Immunogenomics Cancer Institute (SAiGENCI), our research group applies state-of-the-art computational methods and artificial intelligence to unravel the immune system’s role in cancer progression and treatment resistance. Our work has been published in prestigious journals such as *PNAS*, *Genome Biology*, and *Nature Methods*. 
 
 ## Research Focus
 

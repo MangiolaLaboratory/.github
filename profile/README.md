@@ -8,7 +8,7 @@ Our group is at the forefront of integrating computational biology with multiomi
 - **Spatial and Single-Cell Omics Integration:** Combining spatial transcriptomics and single-cell analyses to capture the tumour microenvironment.
 - **Machine Learning & AI in Biology:** Developing large-language AI models and employing statistical and machine learning techniques to predict therapeutic outcomes.
 - **Cancer Immunodiagnosis:** Analysing immune-cell interactions to understand and predict therapy resistance in breast and other cancers.
-- **Tidy Data Analysis:** Using R tidy programming to streamline multiomics analyses, as demonstrated in our tidyomics ecosystem.
+- **Tidy Data Analysis:** Using R tidy programming to streamline multiomics analyses in `Bioconductor`, as demonstrated in our `tidyomics` ecosystem.
 - **Large-Scale Inference:** Constructing scalable infrastructure for analysing expansive single-cell datasets across diverse human populations.
 
 ## Software and Tools

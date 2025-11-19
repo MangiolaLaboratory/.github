@@ -16,7 +16,7 @@ Our group is at the forefront of integrating computational biology with multiomi
 Our group has contributed to several open-source projects that support multiomic and computational analyses:
 - **Tidyomics:** An R ecosystem for tidy data analysis across multiple omic types.
 - **sccomp** A Bayesian mixed effect model for single-cell composition and variability analysis. Test differences in cell-type proportion for complex sigle-cell and spatial datasets.
-- **CuratedAtlasQuery & HPCell:** Platforms for large-scale single-cell data analysis and high-performance computing integration.
+- **cellNexus & HPCell:** Platforms for large-scale single-cell data analysis and high-performance computing integration.
 
 ## Getting Involved
 
